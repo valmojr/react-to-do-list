@@ -22,7 +22,7 @@
 }
 
 .toDoList {
-  height: 550px;
+  height: 565px;
   width: 420px;
   border-radius: 20px;
   color: #282c34;
@@ -31,8 +31,7 @@
 }
 
 .toDoList form{
-  margin: -15px;
-  padding: 0px;
+  margin-top: -10px;
 }
 
 .toDoList input {
